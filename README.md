@@ -1,8 +1,10 @@
 #Doodle Studio Indonesia Short Courses
 [Website Doodle Studio Indonesia](http://doodlestudioid.com/).
-# Firebase Short Courses: FriendlyChat
+email : maulidan@doodlestudioid.com
 
-This is the source code for the Firebase FriendlyChat short courses. It includes start and end versions of the
+# Firebase Short Courses: Chat
+
+This is the source code for the Firebase Chat short courses. It includes start and end versions of the
 code for Web and Android.
 
 
